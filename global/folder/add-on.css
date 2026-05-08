@@ -1,1 +1,1 @@
-body {border: 10px solid #000;}
+body {border: 10px solid var(--theme-color-text-primary, #000);}

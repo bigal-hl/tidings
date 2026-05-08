@@ -4,7 +4,7 @@ html {
 }
 
 body {
-  background-color: #EDEDED;
+  background-color: var(--theme-color-background-tertiary, #EDEDED);
 }
 
 h1 {
