@@ -160,5 +160,5 @@ stage/{GUID}/
 - [Rendering Pipeline](rendering-pipeline.md) -- The multi-phase render process in detail
 - [Rasterizers](rasterizers.md) -- Available output format converters
 - [API Reference](api.md) -- Complete method and REST endpoint documentation
-- [Orator](/orator/orator/) -- The web server framework
-- [Fable](/fable/fable/) -- The core dependency injection framework
+- [Orator](https://stevenvelozo.github.io/orator/) -- The web server framework
+- [Fable](https://stevenvelozo.github.io/fable/) -- The core dependency injection framework

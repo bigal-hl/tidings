@@ -1,6 +1,8 @@
 # Tidings
-An extensible micro-service friendly reporting system.  Meant to be drop-in and super easy to use.
 
+> **[&#9654; Read the Tidings Documentation](https://stevenvelozo.github.io/tidings/)** &mdash; interactive docs with the full API reference.
+
+An extensible micro-service friendly reporting system.  Meant to be drop-in and super easy to use.
 This was built after looking at what was available on the free and paid market to solve the following requirements:
 
 1. I have some data in my application (say, a set of temperatures associated with timestamps)

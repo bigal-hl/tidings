@@ -10,8 +10,8 @@
 
 - Retold Ecosystem
 
-  - [Orator](/orator/orator/)
-  - [Fable](/fable/fable/)
-  - [FoxHound](/meadow/foxhound/)
-  - [Meadow](/meadow/meadow/)
-  - [Indoctrinate](/utility/indoctrinate/)
+  - [Orator](https://stevenvelozo.github.io/orator/)
+  - [Fable](https://stevenvelozo.github.io/fable/)
+  - [FoxHound](https://stevenvelozo.github.io/foxhound/)
+  - [Meadow](https://stevenvelozo.github.io/meadow/)
+  - [Indoctrinate](https://stevenvelozo.github.io/indoctrinate/)
