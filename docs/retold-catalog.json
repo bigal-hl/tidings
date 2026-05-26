@@ -1,7 +1,7 @@
 {
-	"Generated": "2026-05-22T05:42:15.822Z",
+	"Generated": "2026-05-26T18:20:51.971Z",
 	"Mode": "module",
-	"GitHubOrg": "stevenvelozo",
+	"GitHubOrg": "fable-retold",
 	"DefaultBranch": "master",
 	"Module": {
 		"Name": "tidings",
@@ -42,23 +42,23 @@
 				"Children": [
 					{
 						"Title": "Orator",
-						"Path": "orator/orator/README.md"
+						"Path": "https://fable-retold.github.io/orator/README.md"
 					},
 					{
 						"Title": "Fable",
-						"Path": "fable/fable/README.md"
+						"Path": "https://fable-retold.github.io/fable/README.md"
 					},
 					{
 						"Title": "FoxHound",
-						"Path": "meadow/foxhound/README.md"
+						"Path": "https://fable-retold.github.io/foxhound/README.md"
 					},
 					{
 						"Title": "Meadow",
-						"Path": "meadow/meadow/README.md"
+						"Path": "https://fable-retold.github.io/meadow/README.md"
 					},
 					{
 						"Title": "Indoctrinate",
-						"Path": "utility/indoctrinate/README.md"
+						"Path": "https://fable-retold.github.io/indoctrinate/README.md"
 					}
 				]
 			}
