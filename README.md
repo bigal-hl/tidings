@@ -1,6 +1,6 @@
 # Tidings
 
-> **[&#9654; Read the Tidings Documentation](https://stevenvelozo.github.io/tidings/)** &mdash; interactive docs with the full API reference.
+> **[&#9654; Read the Tidings Documentation](https://fable-retold.github.io/tidings/)** &mdash; interactive docs with the full API reference.
 
 An extensible micro-service friendly reporting system.  Meant to be drop-in and super easy to use.
 This was built after looking at what was available on the free and paid market to solve the following requirements:
@@ -700,8 +700,8 @@ Muze allows interactive data dashboards: https://www.charts.com/muze
 
 ## Related Packages
 
-- [orator](https://github.com/stevenvelozo/orator) - API server abstraction
-- [fable](https://github.com/stevenvelozo/fable) - Application services framework
+- [orator](https://github.com/fable-retold/orator) - API server abstraction
+- [fable](https://github.com/fable-retold/fable) - Application services framework
 
 ## License
 

@@ -14,4 +14,4 @@ Turn application data into rendered reports with zero application code changes. 
 [Rendering Pipeline](rendering-pipeline.md)
 [Rasterizers](rasterizers.md)
 [API Reference](api.md)
-[GitHub](https://github.com/stevenvelozo/tidings)
+[GitHub](https://github.com/fable-retold/tidings)
