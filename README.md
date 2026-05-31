@@ -19,10 +19,8 @@ It turns out that just doing these things with most off-the-shelf reporting tool
 
 We also wanted to optimize the ratio of *configuration* versus *code*.  Less code is less debt!
 
-### REWRITE THIS
 ## Technology Summary
 Each report is described by a "Report Description" object.  When you request a report, this object is created and embeds the data you pass as a child object called the "Datum".  Each run of the report creates a "Report Manifest".  This carries state and information about the run.  A few key properties from the child object are looked for, and affect how the report is run.  The most important property is "Type", and a close second is "Renderer".
-### END REWRITE
 
 ## How do I Use This (aka _quick start guide_)
 So you want to create a report.  Follow these simple steps to success (assuming you are in the folder of some node.js application code):
@@ -180,7 +178,6 @@ The resulting folder tree should look something like this (including the run rep
 ```
 
 
-#### TODO: Show how to create a PDF, styles, web serving, web services, etc.
 
 # Terminology
 
@@ -287,7 +284,7 @@ apt-get install graphviz
 Install the npm module (from the root of your application folder):
 
 ```
-apt-get install graphviz
+npm install graphviz
 ```
 
 ### FFMPEG
