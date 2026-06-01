@@ -1,6 +1,6 @@
 # Tidings
 
-> **[&#9654; Read the Tidings Documentation](https://fable-retold.github.io/tidings/)** &mdash; interactive docs with the full API reference.
+> **[Read the Tidings Documentation](https://fable-retold.github.io/tidings/)** - interactive docs with the full API reference.
 
 An extensible micro-service friendly reporting system.  Meant to be drop-in and super easy to use.
 This was built after looking at what was available on the free and paid market to solve the following requirements:
@@ -60,7 +60,7 @@ Each report has a *Type*, which defines what type of report it is.  The *Type* a
 mkdir myreports/default
 ```
 
-Later we will dive into what *Type* and *Renderer* mean.  For now we can just say that tidings has a bunch of defaults, and the default *Report Type* is `default` and the default *Report Renderer* is `html`.
+Later we will look at what *Type* and *Renderer* mean.  For now we can just say that tidings has a bunch of defaults, and the default *Report Type* is `default` and the default *Report Renderer* is `html`.
 
 For a report to work it needs at least three files -- we can create those now.
 
