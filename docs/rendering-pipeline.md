@@ -29,12 +29,8 @@ A manifest object is built from the base template, populated with datum metadata
 
 The output folder structure is created under the report output directory:
 
-```
-stage/{GUID}/
-├── Assets/      # Downloaded external files
-├── Stage/       # Final rendered output
-└── Scratch/     # Temporary workspace (deleted after render)
-```
+<!-- bespoke diagram: edit diagrams/3-create-folders.mmd or .hints.json, then: npx pict-renderer-graph build modules/orator/tidings/docs -->
+![3. Create Folders](diagrams/3-create-folders.svg)
 
 ### 4. Persist Datum
 

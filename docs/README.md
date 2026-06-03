@@ -25,13 +25,8 @@ const libTidings = require('tidings').new(libFable);
 
 Every report type lives in its own folder. A minimal report needs three things:
 
-```
-myreports/default/
-├── report_definition.json   # What the report is
-├── report.js                # Lifecycle hooks (can be empty)
-└── html/
-    └── index.html           # Template content
-```
+<!-- bespoke diagram: edit diagrams/create-a-report-definition.mmd or .hints.json, then: npx pict-renderer-graph build modules/orator/tidings/docs -->
+![Create a Report Definition](diagrams/create-a-report-definition.svg)
 
 **report_definition.json:**
 
@@ -146,14 +141,8 @@ This exposes async and sync render endpoints, manifest retrieval, file downloads
 
 Each rendered report gets its own folder under the output directory:
 
-```
-stage/{GUID}/
-├── Datum.json        # Copy of the input data
-├── Manifest.json     # Render status, timing, errors, log
-├── Assets/           # Downloaded external assets
-├── Stage/            # Final rendered output files
-└── Scratch/          # Temporary files (deleted after render)
-```
+<!-- bespoke diagram: edit diagrams/output-structure.mmd or .hints.json, then: npx pict-renderer-graph build modules/orator/tidings/docs -->
+![Output Structure](diagrams/output-structure.svg)
 
 ## Learn More
 
